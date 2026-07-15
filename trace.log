@@ -1,0 +1,11 @@
+--- Process 16092 created
+--- Process 16092 loaded C:\Windows\System32\ntdll.dll at 00007ffdcc490000
+--- Process 16092 loaded C:\Windows\System32\kernel32.dll at 00007ffdcb1d0000
+--- Process 16092 loaded C:\Windows\System32\KernelBase.dll at 00007ffdc9da0000
+--- Process 16092 loaded C:\Windows\System32\ucrtbase.dll at 00007ffdc9bd0000
+--- Process 16092 thread 2224 created
+--- Process 16092 loaded C:\Windows\System32\kernel.appcore.dll at 00007ffdc77a0000
+--- Process 16092 loaded C:\Windows\System32\msvcrt.dll at 00007ffdcb320000
+--- Process 16092 loaded C:\Windows\System32\rpcrt4.dll at 00007ffdcc160000
+--- Process 16092 thread 2224 exited with status 0x0
+--- Process 16092 exited with status 0x0
